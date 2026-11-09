@@ -1,2 +1,2 @@
 # flyers
-juku2exoert books flyers
+juku2expert books flyers
